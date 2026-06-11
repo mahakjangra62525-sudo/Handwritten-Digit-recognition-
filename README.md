@@ -6,8 +6,7 @@ A beginner-friendly Machine Learning project that recognizes handwritten digits 
 - Python
 - NumPy
 - Pandas
-- Matplotlib
-- Scikit-learn
+- tensorflow 
 
 ## Features
 - Data preprocessing
